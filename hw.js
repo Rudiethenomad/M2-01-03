@@ -12,6 +12,7 @@ let CurrentYear
 let id
 let CurrentAge
 
+
 FirstName = "Jon";
 MiddleName = "Willard";
 LastName = "Rudicil";
@@ -23,8 +24,9 @@ console.log (Greeting + Space + FirstName + Space + MiddleName +Space + LastName
 
 
 
-DateOfBirth = "1968";
-CurrentAge = "54";
+DateOfBirth = "1900";
+
 CurrentYear = "2022"
 
-console.log (CurrentYear - CurrentAge)
+CurrentAge= "CurrentYear - DateOfBirth"
+console.log (CurrentYear - DateOfBirth)
