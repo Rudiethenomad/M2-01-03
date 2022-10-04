@@ -9,6 +9,7 @@ let Pepper = 4
 let Salt = "pinch"
 let Water = 3
 let grease = "SmallAmount"
+let dinner= "finised"
 
 
 let SaltWater = Salt + Water;
@@ -18,9 +19,9 @@ let largPan = SaltWater + Spaghetti;
 let fryingPan = grease;
 let ladel= SaltWater;
 let strainer = Spaghetti;
+let Carbonara = dinner;
 
 
-Carbonara = fryingPan + pan + Guanciale + ladel + strainer;
 
 
 console.log("Spaghetti 400g", Spaghetti)
@@ -34,6 +35,7 @@ console.log (Carbonara)
 
 console.log ("__Preperation__")
 
+Carbonara = fryingPan + pan + Guanciale + ladel + strainer;
 
 
 
