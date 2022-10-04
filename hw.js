@@ -28,5 +28,5 @@ DateOfBirth = "1900";
 
 CurrentYear = "2022"
 
-CurrentAge= "CurrentYear - DateOfBirth"
+CurrentAge= "122"
 console.log (CurrentYear - DateOfBirth)
