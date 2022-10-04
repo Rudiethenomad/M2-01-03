@@ -15,14 +15,12 @@ console.log("VeryFreshEggYolks 6", Eggs)
 console.log("Cheese 50g", Cheese)
 console.log("Pepper 4g", Pepper)
 
+
+
 console.log ("__Preperation__")
 
-let strips= Guanciale
-console.log("Cut guanciale into 1cm layers, then into long strips") 
 
-console.log(Eggs + Cheese)
 
-console.log("Roast the black pepper on a pan until it smokes and sizzles, and combine a small amount of it to the yolks and chees mixture, set aside the rest" )
 
 
 
